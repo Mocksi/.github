@@ -3,3 +3,5 @@ Drastically simplifying and improving how engineers create and maintain high qua
 * Development
 * Testing
 * API Sandboxes
+* 
+![MocksiMecha](https://github.com/Mocksi/.github/assets/63699/889a5039-5fba-4703-b5f3-8488abfca695|height=100)
