@@ -20,4 +20,4 @@
 
 ## Contributors
 - [@elg0nz](https://github.com/elg0nz)
-- [@yogin](https://github.com/yogin)
+- [@jonathankap](https://github.com/jonathankap)
