@@ -20,6 +20,6 @@
 
 ## Contributors
 - [@elg0nz](https://github.com/elg0nz)
-- [@jonathankap](https://github.com/jonathankap)
-- [@fitzk](https://github.com/fitzk)
 - [@drewtang](https://github.com/drewtang)
+- [@gotascii](https://github.com/gotascii)
+- [@jonathankap](https://github.com/jonathankap)
