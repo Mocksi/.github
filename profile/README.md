@@ -1,23 +1,37 @@
-<img src="https://github.com/Mocksi/.github/assets/63699/889a5039-5fba-4703-b5f3-8488abfca695)https://github.com/Mocksi/.github/assets/63699/889a5039-5fba-4703-b5f3-8488abfca695" alt="Mocksi Mecha" width="400">
+# Brief
 
-<aside>
+Brief provides the missing "intention layer" for AI development teams. While AI agents can build and ship code at unprecedented speed, they lack the strategic context and product intuition to make meaningful decisions.
 
+Brief gives coding agents memory of past decisions, customer requirements, and technical constraints so they understand not just what your code does, but why it exists.
 
-[Mocksi](https://mocksi.ai/) is an open-source project that uses language learning models (LLMs) to generate realistic, synthetic database environments. Drastically simplifying and improving how engineers create and maintain high-quality data for:
+## What Brief Does
 
-- Development
-- Testing
-- API Sandboxes
-</aside>
+**Product Intelligence for AI Development**
+- Customer context in every AI session
+- Decision memory that prevents repeated mistakes
+- Priority reality checks based on actual business needs
+- Strategic guidance for coding agents
 
-## Let’s democratize data simulation together.
+**Built for teams shipping fast with AI**
+For teams using Cursor, Claude Code, or Copilot who need their AI to understand not just syntax, but business intent.
 
-- [Github](https://github.com/Mocksi/)
-    - [HARlighter](https://github.com/Mocksi/HARlighter/) – Where Every Session Crafts a Story.
-    - [VHWhale Rewinder](https://github.com/Mocksi/VHWhale-Rewinder) – Mastering Docker Moments
-    - [DiffDash Drone](https://github.com/Mocksi/DiffDashDrone) – identify and predict Bugspots via git history and LLMs
+## Integrations
 
+- **Slack** - Captures decisions made in conversation
+- **Notion** - Surfaces priorities and strategic direction
+- **Linear** - Evaluates projects against company goals
+- **Git** - Aligns commits to business decisions
+- **MCP** - Works with Cursor, Claude Code, ChatGPT, and Claude Desktop
 
-## Contributors
-- [@drewtang](https://github.com/drewtang)
-- [@leavens9](https://github.com/leavens9)
+## Getting Started
+
+Currently in private beta. [Join the waitlist](https://briefhq.ai) to get early access.
+
+## Contact
+
+- Website: [briefhq.ai](https://briefhq.ai)
+- Email: hello@briefhq.ai
+
+**Contributors**
+- @drewtang
+- @leavens9
