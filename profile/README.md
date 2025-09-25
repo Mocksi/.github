@@ -19,8 +19,5 @@
 
 
 ## Contributors
-- [@elg0nz](https://github.com/elg0nz)
 - [@drewtang](https://github.com/drewtang)
-- [@gotascii](https://github.com/gotascii)
 - [@leavens9](https://github.com/leavens9)
-- [@jonathankap](https://github.com/jonathankap)
